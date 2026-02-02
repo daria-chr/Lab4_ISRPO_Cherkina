@@ -42,7 +42,8 @@ Lab4_ISRPO_Cherkina:
 - Пункт 2
 
 ### Картинка
-![Скриншот](../repo/browser_Cherkina.png)
+![Скриншот](repo/browser_Cherkina.png)
+
 
 ### Код
 
@@ -67,6 +68,9 @@ $$
 ---
 ##  Скриншоты из папки repo
 ![Скриншот](repo/browser_Cherkina.png)
+![Скриншот](repo/backend_Cherkina.png)
+![Скриншот](repo/git_Cherkina.png)
+![Скриншот](repo/terminal_Cherkina.png)
 
 ---
 ## Заключение
