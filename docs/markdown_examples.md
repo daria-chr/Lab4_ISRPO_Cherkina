@@ -51,7 +51,8 @@ git push
 | Черкина | Дарья | ИСП-231 |
 
 ### Изображение
-![Скриншот](../repo/browser_Cherkina.png)
+![Скриншот](../repo/browser_Cherkina.png
+)
 
 ### Ссылки
 [GitHub](https://github.com/)

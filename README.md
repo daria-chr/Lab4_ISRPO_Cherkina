@@ -66,7 +66,7 @@ $$
 
 ---
 ##  Скриншоты из папки repo
-![Скриншот](../repo/browser_Cherkina.png)
+![Скриншот](repo/browser_Cherkina.png)
 
 ---
 ## Заключение
